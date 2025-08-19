@@ -1,0 +1,14 @@
+{
+  "repositoryUrl": "https://github.com/databikers/diana-db",
+  "funding": [
+    {
+      "type": "github",
+      "url": "https://github.com/sponsors/databikers"
+    },
+    {
+      "type": "patreon",
+      "url": "https://www.patreon.com/databikers"
+    }
+  ],
+  "wellKnown": "https://github.com/databikers/diana-db/blob/main/.well-known/funding-manifest-urls"
+}
